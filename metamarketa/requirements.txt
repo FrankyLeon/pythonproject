@@ -1,0 +1,12 @@
+Django==3.2.6
+Pillow
+pytz==2022.7.1
+sqlparse==0.4.3
+certifi==2022.12.7
+charset-normalizer==3.0.1
+pywin32==307; sys_platform == 'win32'
+SecretStorage==3.3.3
+idna==3.4
+requests==2.28.2
+urllib3==1.26.14
+setuptools==75.1.0; python_version >= '3.12'
